@@ -1,0 +1,27 @@
+[
+
+{
+  "name": "Gramlab API",
+  "description": "Gramlab API library for adding plugins",
+  "groupId": "com.gramlab.api",
+  "artifactId": "gramlab-api",
+  "version": "1.0.0-SNAPSHOT",
+  "date": "2016-07-15",
+  "files": {
+    "pom": { "path": "" },
+    "package": { "path": "", "size":" KB" }
+   }
+},
+{
+  "name": "Gramlab Core",
+  "description": "Gramlab's source code",
+  "groupId": "com.gramlab.core",
+  "artifactId": "gramlab-core",
+  "version": "1.0.0-SNAPSHOT",
+  "date": "2016-07-15",
+  "files": {
+    "pom": { "path": "" },
+    "package": { "path": "", "size":" KB" }
+   }
+}
+]
