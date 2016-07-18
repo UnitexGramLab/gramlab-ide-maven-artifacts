@@ -3,7 +3,7 @@
 {
   "name": "Gramlab API",
   "description": "Gramlab API library for adding plugins",
-  "groupId": "com.gramlab.api",
+  "groupId": "org.gramlab.api",
   "artifactId": "gramlab-api",
   "version": "1.0.0-SNAPSHOT",
   "date": "2016-07-15",
@@ -15,7 +15,7 @@
 {
   "name": "Gramlab Core",
   "description": "Gramlab's source code",
-  "groupId": "com.gramlab.core",
+  "groupId": "org.gramlab.core",
   "artifactId": "gramlab-core",
   "version": "1.0.0-SNAPSHOT",
   "date": "2016-07-15",
