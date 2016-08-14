@@ -1,6 +1,6 @@
 {
-  "name": "Gramlab",
-  "description": "Gramlab is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing IDE",
+  "name": "GramLab",
+  "description": "Unitex/GramLab is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite. GramLab is the Integrated Development Environment (IDE) of Unitex/GramLab",
   "id": "org.gramlab",
   "affinity": "org.gramlab",
   "projectUrl": "http://unitexgramlab.org"
